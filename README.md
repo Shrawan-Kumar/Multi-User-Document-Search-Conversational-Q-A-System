@@ -11,7 +11,8 @@ Groq API / Llama 3.3 70B (primary LLM) · Ollama / Phi-3 (local fallback LLM) ·
 Streamlit (UI)**
 
 ---
-
+DEMO VIDEO : 🎥 Video Demo:
+https://1drv.ms/v/c/60b789178a2aeb21/IQAWiPNfM9y-QrVygxzwo6SxAbRHmGB5BdQOQwAzazr6ENk?e=qr7dEM
 ## 1. Architecture
 
 ```
