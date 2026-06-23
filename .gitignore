@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+vectorstore/faiss_index/
+data/pdfs/*.pdf
+.DS_Store
+.env
